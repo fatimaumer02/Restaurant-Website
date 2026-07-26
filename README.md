@@ -4,6 +4,7 @@
 
 Restaurantly is a modern, responsive restaurant website built with **HTML, CSS, JavaScript, and Bootstrap**.  
 It is designed to showcase restaurant services, menus, and contact information with a professional and elegant layout.
+The website provides a seamless user experience. 
 
 ---
 
